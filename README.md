@@ -14,13 +14,9 @@ Docker
 <br>
 ## Antes de começar
 1) Certifique-se de que possui o docker instalado em sua máquina.
-<br>
 `https://docs.docker.com/get-docker/`
-<br>
 2) Na pasta `docker`, revise o arquivo `docker-compose.yml`. Nele é possível editar as variáveis de acesso ao banco de dados que estará disponível através do container.
-<br>
 3) Após revisar as informações do container, através do terminal, entrar na pasta docker e rode o comando para inicilizar o container do Postgres:
-<br>
 `docker-compose up -d`
 ```
 Com este container você terá acesso ao banco de dados Postgres e ao Open Source Administrador pgadmin.
