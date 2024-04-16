@@ -18,7 +18,7 @@ Docker
 3) Na pasta `docker`, revise o arquivo `docker-compose.yml`. Nele é possível editar as variáveis de acesso ao banco de dados que estará disponível através do container.
 4) Após revisar as informações do container, através do terminal, entrar na pasta docker e rode o comando para inicilizar o container do Postgres:
 `docker-compose up -d`
-Com este container você terá acesso ao banco de dados Postgres e ao Open Source Administrador pgadmin.
+Com este container você terá acesso ao banco de dados Postgres e ao Open Source Administrador `pgadmin`.
 6) Abra um navegador de sua preferencia com a url: `localhost:8081`
 7) Digite o usuário e a senha contidas nas variáveis `POSTGRES_USER` e `POSTGRES_PASSWORD` do arquivo `docker-compose.yml`.
 8) O projeto possui o arquivo `src/resources/application.properties`, na variável `spring.datasource.url`, esta o nome da base da dados que o sistema irá utilizar.
