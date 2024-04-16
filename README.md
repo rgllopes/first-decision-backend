@@ -9,7 +9,7 @@ JPA
 Banco de dados Postgres 
 <br>
 <br>
-### endpoints
+## endpoints
 criar usuário -> /api/create-user
 <br>
 listar usuários -> /api/users<br>
