@@ -2,10 +2,14 @@
 Desafio técnico fullstack Spring Boot
 
 ## Tecnologias utilizadas
-Spring Boot
-JPA
-Banco de dados Postgres
-
+Spring Boot 
+<br>
+JPA 
+<br>
+Banco de dados Postgres 
+<br>
+<br>
 ### endpoints
 criar usuário -> /api/create-user
-listar usuários -> /api/users
+<br>
+listar usuários -> /api/users<br>
