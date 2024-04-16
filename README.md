@@ -1,5 +1,5 @@
 # Firts-Decision
-Desafio técnico fullstack Spring Boot
+Desafio técnico fullstack
 
 ## Tecnologias utilizadas
 Java 17
@@ -37,10 +37,12 @@ role = ADMIN
 As informações deste usuário estão no arquivo `src/main/java/br/com/api/config/AdminUserConfig na função `run`
 <br>
 
-
 ## endpoints
 login -> /api/login
 <br>
 criar usuário -> /api/create-user
 <br>
 listar usuários -> /api/users<br>
+
+#### O link do projeto frontend é:
+(https://github.com/rgllopes/first-decision-frontend/tree/main)
